@@ -2,6 +2,6 @@
 
 Some description here..!!
 
-##SUBHEADING
+## SUBHEADING
 
 Some more description here.
